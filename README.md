@@ -24,8 +24,8 @@ Feel free to say hello!
 
 <div align="center">
   <a href="https://github.com/tulilirockz">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tulilirockz&show_icons=true&include_all_commits=true&count_private=false&theme=radical"/>
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulilirockz&layout=compact&langs_count=5&theme=radical"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tulilirockz&show_icons=true&include_all_commits=true&count_private=false&theme=vue"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulilirockz&layout=compact&langs_count=5&theme=vue"/>
 </div>
 <hr>
 <div align="center">
