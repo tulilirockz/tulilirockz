@@ -1,10 +1,20 @@
-## Hello! 👋
+# A bit about me 🌷
 
 I'm a bit shy, but I love listening to everyone and I'll try to help out as much as I can!
 
-Interested in Software Development and Photography (especially flower-related!). 
+I'm aiming to be as versatile as possible, working with backend and frontend technologies, making games, fun side projects, and whatever else! I'm especially interested in cloud-native technologies, like Azure, and operating systems, especially immutable ones like CoreOS, NixOS, Fedora Silverblue and some of it's [derived projects](https://ublue.it/)
 
-Feel free to say hello!
+I also love photography! I don't exactly have a public profile right now, but whenever I do, I'll link it here
+
+Feel free to say [hello](mailto:tulilirockz.pub+contact@gmail.com?subject=Hello!)! Much love, and hope you all are doing well 🌸💕
+
+## Some Stats!
+
+<div align="center">
+  <a href="https://github.com/tulilirockz">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tulilirockz&show_icons=true&include_all_commits=true&count_private=false&theme=vue"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulilirockz&layout=compact&langs_count=5&theme=vue"/>
+</div>
 
 ## Obligatory Neofetch
 
@@ -20,13 +30,6 @@ Feel free to say hello!
    '''''          gpu AMD ATI Radeon Vega Series / Radeon V
 ```
 
-## Some Stats!
-
-<div align="center">
-  <a href="https://github.com/tulilirockz">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tulilirockz&show_icons=true&include_all_commits=true&count_private=false&theme=vue"/>
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulilirockz&layout=compact&langs_count=5&theme=vue"/>
-</div>
 <hr>
 <div align="center">
   <img align="center" alt= "Fedora" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
