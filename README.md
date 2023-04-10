@@ -15,30 +15,7 @@ Feel free to say [hello](mailto:tulilirockz.pub+contact@gmail.com?subject=Hello!
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tulilirockz&show_icons=true&include_all_commits=true&count_private=false&theme=vue"/>
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulilirockz&layout=compact&langs_count=5&theme=vue"/>
 </div>
-
-## Obligatory Neofetch
-
-```
-
-          /:-------------:\          tulili@tricey 
-       :-------------------::        ------------- 
-     :-----------/shhOHbmp---:\      OS: Fedora Linux 37.20230409.0 (Silverblue) x86_64 
-   /-----------omMMMNNNMMD  ---:     Kernel: 6.2.9-200.fc37.x86_64 
-  :-----------sMMMMNMNMP.    ---:    Uptime: 50 mins 
- :-----------:MMMdP-------    ---\   Packages: 1501 (rpm), 77 (flatpak) 
-,------------:MMMd--------    ---:   Shell: bash 5.2.15 
-:------------:MMMd-------    .---:   Resolution: 1366x768 
-:----    oNMMMMMMMMMNho     .----:   DE: GNOME 43.4 
-:--     .+shhhMMMmhhy++   .------/   WM: Mutter 
-:-    -------:MMMd--------------:    WM Theme: Adwaita 
-:-   --------/MMMd-------------;     Theme: Adwaita [GTK2/3] 
-:-    ------/hMMMy------------:      Icons: Adwaita [GTK2/3] 
-:-- :dMNdhhdNMMNo------------;       Terminal: gnome-terminal 
-:---:sdNMMMMNds:------------:        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz 
-:------:://:-------------::          GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series 
-:---------------------://            Memory: 2599MiB / 5840MiB
-```
-
+ 
 <hr>
 <div align="center">
   <img align="center" alt= "Fedora" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
