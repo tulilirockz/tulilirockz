@@ -19,15 +19,24 @@ Feel free to say [hello](mailto:tulilirockz.pub+contact@gmail.com?subject=Hello!
 ## Obligatory Neofetch
 
 ```
-        ,'''''.   tulili@tricey
-       |   ,.  |  os     Fedora Linux 38.20230403.n.0 (Silverblue Prerelease)
-       |  |  '_'  host   x86_64
-  ,....|  |..     kernel 6.2.9-300.fc38.x86_64
-.'  ,_;|   ..'    uptime 2h 49m
-|  |   |  |       pkgs   1664 (rpm), 72 (flatpak)
-|  ',_,'  |       memory 2936M / 5840M
- '.     ,'        cpu AMD Ryzen 3 2200G (4) @ 3.500GHz
-   '''''          gpu AMD ATI Radeon Vega Series / Radeon V
+
+          /:-------------:\          tulili@tricey 
+       :-------------------::        ------------- 
+     :-----------/shhOHbmp---:\      OS: Fedora Linux 37.20230409.0 (Silverblue) x86_64 
+   /-----------omMMMNNNMMD  ---:     Kernel: 6.2.9-200.fc37.x86_64 
+  :-----------sMMMMNMNMP.    ---:    Uptime: 50 mins 
+ :-----------:MMMdP-------    ---\   Packages: 1501 (rpm), 77 (flatpak) 
+,------------:MMMd--------    ---:   Shell: bash 5.2.15 
+:------------:MMMd-------    .---:   Resolution: 1366x768 
+:----    oNMMMMMMMMMNho     .----:   DE: GNOME 43.4 
+:--     .+shhhMMMmhhy++   .------/   WM: Mutter 
+:-    -------:MMMd--------------:    WM Theme: Adwaita 
+:-   --------/MMMd-------------;     Theme: Adwaita [GTK2/3] 
+:-    ------/hMMMy------------:      Icons: Adwaita [GTK2/3] 
+:-- :dMNdhhdNMMNo------------;       Terminal: gnome-terminal 
+:---:sdNMMMMNds:------------:        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz 
+:------:://:-------------::          GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series 
+:---------------------://            Memory: 2599MiB / 5840MiB
 ```
 
 <hr>
