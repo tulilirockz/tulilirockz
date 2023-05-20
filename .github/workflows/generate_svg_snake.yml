@@ -1,0 +1,25 @@
+name: Generate Snake on Profile
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: "* */36 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: Platane/snk@v2
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        pallete: github
+        color_snake: "#73A9AD"
+        color_dots:  "#E6FFFD,#AEE2FF,#ACBCFF,#B799FF,#070A52"
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
