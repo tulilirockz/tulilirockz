@@ -9,7 +9,7 @@ I also love photography! I don't exactly have a public profile right now, but wh
 Feel free to say [hello](mailto:tulilirockz.pub+contact@gmail.com?subject=Hello!)! Much love, and hope you all are doing well 🌸💕
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tulilirockz/tulilirockz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tulilirockz/tulilirockz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tulilirockz/tulilirockz/output/github-snake.svg" />
 </picture>
