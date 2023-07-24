@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: "* */36 * * *"
+    - cron: "0 */36 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
           dist/github-snake.svg?pallete=github&color_snake=#73a9ad&color_dots=#e6fffd,#aee2ff,#acbcff,#b799ff,#070a5
-          dist/github-snake-dark.svg?pallete=github-dark&color_snake=#FFFFFF&color_dots=#FFEADD,#FCAEAE,#FF8989,#FF6666,#F11A7B
+          dist/github-snake-dark.svg?pallete=github-dark&color_snake=#E1AEFF&color_dots=#FFEADD,#FCAEAE,#FF8989,#FF6666,#F11A7B
     
     - name: push github-contribution-grid-snake.svg to the output branch
       uses: crazy-max/ghaction-github-pages@v3.1.0
