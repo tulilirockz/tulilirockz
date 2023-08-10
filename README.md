@@ -4,8 +4,6 @@ I'm a bit shy, but I love listening to everyone and I'll try to help out as much
 
 I'm aiming to be as versatile as possible, working with backend and frontend technologies, making games, fun side projects, and whatever else! I'm especially interested in cloud-native technologies, like Azure, and operating systems, especially immutable ones like CoreOS, NixOS, Fedora Silverblue and some of it's [derived projects](https://universal-blue.org/)
 
-All my personal projects that do not require anything GitHub specific are over at my [Codeberg profile](https://codeberg.org/tulilirockz), but if you don't want to leave GitHub, some of my projects are archived here, too!
-
 Feel free to say hello! Much love, and hope you all are doing well 🌸💕
 
 <picture>
