@@ -7,9 +7,3 @@ I'm aiming to be as versatile as possible, working with backend and frontend tec
 Feel free to say hello! Much love, and hope you all are doing well 🌸💕
 
 ![Metrics](https://metrics.lecoq.io/tulilirockz?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tulilirockz/tulilirockz/4e9f5212aec0ed7d97ba8f8a228e72c5689a204e/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tulilirockz/tulilirockz/4e9f5212aec0ed7d97ba8f8a228e72c5689a204e/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tulilirockz/tulilirockz/output/github-snake.svg" />
-</picture>
