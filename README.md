@@ -9,3 +9,6 @@ I am also currently unemployed! If you wish to hire me, please contact me!
 - [@tulili:matrix.org](app.element.io)
 - [tulilirockz@outlook.com](mailto:tulilirockz@outlook.com)
 - [tuliliw](discord.gg)
+
+If you dont wanna hire me but you want to help me out financially, [consider sponsoring me on GitHub](https://github.com/sponsors/tulilirockz). It really makes a difference.
+
