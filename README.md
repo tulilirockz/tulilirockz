@@ -11,3 +11,6 @@ I am also currently unemployed! If you wish to hire me, please contact me, I wil
 - [tuliliw](https://discord.gg)
 
 If you don't want to hire me but you want to help me out financially, [consider sponsoring me on GitHub](https://github.com/sponsors/tulilirockz). It really makes a difference.
+
+<!--Here are some people that sponsored me! THANK YOU SO MUCH!!!!!! -->
+<!-- sponsors --><!-- sponsors -->
