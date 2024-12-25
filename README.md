@@ -12,5 +12,18 @@ I am also currently unemployed! If you wish to hire me, please contact me, I wil
 
 If you don't want to hire me but you want to help me out financially, [consider sponsoring me on GitHub](https://github.com/sponsors/tulilirockz). It really makes a difference.
 
-<!--Here are some people that sponsored me! THANK YOU SO MUCH!!!!!! -->
-<!-- sponsors --><!-- sponsors -->
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
+![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
