@@ -25,5 +25,3 @@ If you don't want to hire me but you want to help me out financially, [consider 
 ![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
 ![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
 ![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
