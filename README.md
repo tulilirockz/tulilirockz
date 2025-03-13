@@ -1,12 +1,17 @@
 # A bit about me 🌷
 
-I'm a bit shy, but I love listening to everyone and I'll try to help out as much as I can!
+I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can, always!
 
-I'm aiming to be as versatile as possible, working with backend and frontend technologies, making games, fun side projects, and whatever else! I'm especially interested in cloud-native technologies, like CoreOS, NixOS, Fedora Silverblue, [Universal Blue](https://universal-blue.org/) and Kubernetes
+I work a lot on [Bluefin](https://projectbluefin.io/) and this is absolutely my passion project, I love working on literally everything related to it, upstream, downstream, mid-stream(???).
+Hoping to work on this forever :)
+
+![Bluefin My Beloved](https://media.discordapp.net/attachments/1087140903031943178/1349611139540979732/bluefin-beloved.gif?ex=67d3bad2&is=67d26952&hm=4150ee5824dcba40b6d7cfd0539804a3687d8de7c0c2d5b73280437469c24ac9&=)
+
+
 
 I am also currently unemployed! If you wish to hire me, please contact me, I will answer ASAP!
 
-- [tulilirockz@outlook.com](mailto:tulilirockz@proton.me)
+- [tulilirockz@proton.me](mailto:tulilirockz@proton.me)
 - [@tulili:matrix.org](https://app.element.io)
 - [tuliliw](https://discord.gg)
 
