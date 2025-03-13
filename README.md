@@ -1,4 +1,4 @@
-# A bit about me 🌷
+# Tulip 🌷
 
 I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can, always!
 
