@@ -1,12 +1,6 @@
 # Tulip 🌷
 
-I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can, always!
-
-I work a lot on [Bluefin](https://projectbluefin.io/) and this is absolutely my passion project, I love working on literally everything related to it, hoping to work on this forever :)
-
-![Bluefin My Beloved](https://media.discordapp.net/attachments/1087140903031943178/1349611139540979732/bluefin-beloved.gif?ex=67d3bad2&is=67d26952&hm=4150ee5824dcba40b6d7cfd0539804a3687d8de7c0c2d5b73280437469c24ac9&=)
-
-
+I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can! I work a lot on [Bluefin](https://projectbluefin.io/) and this is absolutely my passion project, I love working on literally everything related to it, hoping to work on this forever :)
 
 I am also currently unemployed! If you wish to hire me, please contact me, I will answer ASAP!
 
