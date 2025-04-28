@@ -2,15 +2,6 @@
 
 I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can! I work a lot on [Bluefin](https://projectbluefin.io/) and this is absolutely my passion project, I love working on literally everything related to it, hoping to work on this forever :)
 
-I am also currently unemployed! If you wish to hire me, please contact me, I will answer ASAP!
-
-- [tulilirockz@proton.me](mailto:tulilirockz@proton.me)
-- [@tulili:matrix.org](https://app.element.io)
-- [tuliliw](https://discord.gg)
-
-If you don't want to hire me but you want to help me out financially, [consider sponsoring me on GitHub](https://github.com/sponsors/tulilirockz). It really makes a difference.
-
-
 ![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
 ![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
 ![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
