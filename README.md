@@ -1,28 +1,13 @@
-# Tulip 🌷
+#### Heyo! I'm Tulip!
 
-I'm a bit shy, but I love engaging with the community and I'll try to help out as much as I can! I work a lot on [Bluefin](https://projectbluefin.io/) and this is absolutely my passion project, I love working on literally everything related to it, hoping to work on this forever :)
+I program as a hobby (and work at [Chainguard](http://chainguard.dev/)) and I'm a regular contributor to all things image-based (bootc, mkosi, sysupdate, tooling around those (...)), I've been on this space for some time and I absolutely adore it!
 
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
-![hampter2](https://i.kym-cdn.com/photos/images/original/000/059/892/gerbil20110724-22047-1d239dr.gif)
-![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif)
+I've contributed to/worked on quite a few operating-system related projects, like [Bazzite](https://bazzite.gg/), [Bluefin](https://projectbluefin.io/), [Aurora](https://getaurora.dev/en/), [Zirconium](https://zirconium.gay/), [Universal Blue](https://universal-blue.org/), [Bootcrew](https://github.com/bootcrew/), [Ultramarine Linux](https://ultramarine-linux.org/), [PostmarketOS](https://postmarketos.org/), [GNOME OS](https://os.gnome.org/) and others! I'm also a member of the [OpenGamingCollective](https://opengamingcollective.org/).
 
-<!--
-![glrop](https://media.discordapp.net/attachments/1074422586894712912/1346625516236701737/glerp.gif?ex=67d36a3e&is=67d218be&hm=465d54f40c2b7e2c3f63a59837e813cb70cbd5b16ce3d0f69c1778a799826069&=)
-![glorpslow](https://media.discordapp.net/attachments/1074422586894712912/1346625515364290601/glorpslow.gif?ex=67d36a3d&is=67d218bd&hm=498cefa9f67dcf1d1e3d58d6dcafd712d20aedd7344a7efc6580af3783e36c12&=)
-![glrop](https://media.discordapp.net/attachments/1074422586894712912/1346625516236701737/glerp.gif?ex=67d36a3e&is=67d218be&hm=465d54f40c2b7e2c3f63a59837e813cb70cbd5b16ce3d0f69c1778a799826069&=)
-![glorpslow](https://media.discordapp.net/attachments/1074422586894712912/1346625515364290601/glorpslow.gif?ex=67d36a3d&is=67d218bd&hm=498cefa9f67dcf1d1e3d58d6dcafd712d20aedd7344a7efc6580af3783e36c12&=)
-![glrop](https://media.discordapp.net/attachments/1074422586894712912/1346625516236701737/glerp.gif?ex=67d36a3e&is=67d218be&hm=465d54f40c2b7e2c3f63a59837e813cb70cbd5b16ce3d0f69c1778a799826069&=)
-![glorpslow](https://media.discordapp.net/attachments/1074422586894712912/1346625515364290601/glorpslow.gif?ex=67d36a3d&is=67d218bd&hm=498cefa9f67dcf1d1e3d58d6dcafd712d20aedd7344a7efc6580af3783e36c12&=)
-![glrop](https://media.discordapp.net/attachments/1074422586894712912/1346625516236701737/glerp.gif?ex=67d36a3e&is=67d218be&hm=465d54f40c2b7e2c3f63a59837e813cb70cbd5b16ce3d0f69c1778a799826069&=)
-![glorpslow](https://media.discordapp.net/attachments/1074422586894712912/1346625515364290601/glorpslow.gif?ex=67d36a3d&is=67d218bd&hm=498cefa9f67dcf1d1e3d58d6dcafd712d20aedd7344a7efc6580af3783e36c12&=)
--->
+Please feel free to reach out to me on these platforms:
+- Email: tulilirockz a@t outlook dot com
+- Matrix: @tulilirockz:matrix.org
+
+![Stylized photo of a Tulip](https://raw.githubusercontent.com/tulilirockz/tulilog/refs/heads/main/static/favicon.png)
+
+<!-- ![hampter1](https://i.kym-cdn.com/photos/images/original/000/059/890/hamu20110724-22047-qp2fnw.gif) -->
